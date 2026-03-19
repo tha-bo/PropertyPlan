@@ -134,12 +134,9 @@ Located in `src/stores/room.ts`:
 
 ## Next Steps / Future Improvements
 
-- Add more pages/routes as needed
-- Customize carousel styling further
+- Update Overview with new components
 - Add animations for room transitions
-- Responsive design improvements for mobile
 - Add filters or search for rooms
-- Export functionality for room details
 
 ## Commands
 
