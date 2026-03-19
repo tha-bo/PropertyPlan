@@ -4,6 +4,11 @@
 
 A Vue 3 + TypeScript interactive property floor plan viewer with room selection, image carousels, and detailed descriptions.
 
+## AI
+
+AI was used to document and develop the application. Project was manually set up with vue3+vite, tailwind and shadcdn. 
+Built component by component with AI assistance in error correction and optimization
+
 ## Tech Stack
 
 - **Framework**: Vue 3 (Composition API)
@@ -137,6 +142,8 @@ Located in `src/stores/room.ts`:
 - Update Overview with new components
 - Add animations for room transitions
 - Add filters or search for rooms
+- Ignore linting /ui directory or resolve issues
+- add selenium tests
 
 ## Commands
 
