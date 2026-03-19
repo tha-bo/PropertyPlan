@@ -1,6 +1,6 @@
-# propertyPlan
+# propertyPlan Project
 
-This template should help get you started developing with Vue 3 in Vite.
+http://your-beautiful-home.s3-website.eu-north-1.amazonaws.com/room/livingRoom
 
 ## Recommended IDE Setup
 
